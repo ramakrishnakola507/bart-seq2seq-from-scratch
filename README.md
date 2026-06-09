@@ -4,17 +4,6 @@
 
 ---
 
-## 📌 Repository Name Recommendation
-
-```
-bart-seq2seq-from-scratch
-```
-
-> **Why this name?**  
-> It's specific (not just "BART"), signals implementation depth ("from scratch"), and uses keywords recruiters and engineers search for: `seq2seq`, `transformer`, `from-scratch`. Alternatives: `bart-transformer-pytorch` or `bart-llm-implementation`.
-
----
-
 ## 🧠 What Is BART?
 
 BART is a denoising autoencoder for pretraining sequence-to-sequence models. It:
